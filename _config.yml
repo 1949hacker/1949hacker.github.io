@@ -13,8 +13,8 @@ timezone: 'Asia/Shanghai'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://scepter-1949hacker.gitee.io/blog
-root: /blog
+url: https://1949hacker.github.io.git
+root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
