@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
-language: en
-timezone: ''
+title: 落尘烟雨's Blog
+subtitle: '1949hacker'
+description: '落尘烟雨个人博客'
+keywords: 落尘烟雨,博客,1949hacker
+author: Scepter
+language: zh-CN
+timezone: 'Asia/Shanghai'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://blog.1949hacker.cn
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
